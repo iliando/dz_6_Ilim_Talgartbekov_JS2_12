@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ilim",
+      "surname": "Talgartbekov",
+      "email": "everybodycommon@common"
+    },
+    {
+      "id": 2,
+      "name": "",
+      "surname": "Vstavai",
+      "email": "",
+      "username": ""
+    },
+    {
+      "id": 4,
+      "name": "Jalil",
+      "surname": "prosypaisya",
+      "email": "prosnulsya@common"
+    },
+    {
+      "id": 5,
+      "name": "Aktan",
+      "surname": "Uzun",
+      "email": "krasavchik@common"
+    },
+    {
+      "id": 6,
+      "name": "Iliando",
+      "surname": "Italiando",
+      "email": "iuta@common"
+    },
+    {
+      "name": "ilim",
+      "username": "sdsd",
+      "email": "sdsd",
+      "id": 7
+    },
+    {
+      "name": "",
+      "username": "",
+      "email": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "username": "",
+      "email": "",
+      "id": 9
+    }
+  ]
+}
